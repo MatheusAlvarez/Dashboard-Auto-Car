@@ -23,7 +23,6 @@
 :link: **- https://dashboard-auto-car.netlify.app/**
 
 ## Squad TechnoTrends - Members
-
 👨‍💻: **- [Matheus Alvarez](https://github.com/MatheusAlvarez "GitHub do Matheus")**
 
 👨‍💻: **- [Pedro Palugan](https://github.com/pedropalugan "GitHub do Pedro")**
